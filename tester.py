@@ -1,3 +1,5 @@
-hey = ""
+hey = "  hello world "
 
-print(len(hey))
+words = hey.split()
+
+print(words)
