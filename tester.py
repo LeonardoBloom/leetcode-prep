@@ -1,5 +1,1 @@
-hey = "  hello world "
-
-words = hey.split()
-
-print(words)
+hey = "test"
